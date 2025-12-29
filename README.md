@@ -98,10 +98,3 @@ Key observations from the results below:
   - Temp=1.0：**14.2% → 30.5%**
   - Temp=1.2：**6.4% → 约 18%**（以图中标注为准，取近似描述）
 
-### Figure 1 — Pass@k on AIME25 (Qwen2.5-Math-1.5B)
-![Pass@k Performance at AIME25 using Qwen2.5-Math-1.5B](assets/passk_aime25_qwen2p5_math_1p5b.png)
-
-### Figure 2 — Pass@k on AIME25 (Stronger Setting)
-![Pass@k Performance at AIME25 using Qwen2.5-Math-1.5B (Stronger Setting)](assets/passk_aime25_qwen2p5_math_1p5b_instruct.png)
-
----
